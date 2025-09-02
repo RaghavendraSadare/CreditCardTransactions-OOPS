@@ -25,7 +25,7 @@ A console-based **C++ application** that simulates a credit card system, enablin
 ---
 
 ## 📚 Class Overview
-###🛡️ Custom Exceptions
+🛡️ Custom Exceptions
 | Exception Class | Purpose |
 |-----------------|---------|
 | `INVALID_PIN` | Thrown for invalid PIN format |
