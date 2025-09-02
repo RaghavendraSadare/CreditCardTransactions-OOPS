@@ -1,4 +1,4 @@
-#💳💼 Credit Card Management System
+💳💼 Credit Card Management System
 A console-based **C++ application** that simulates a credit card system, enabling users to apply for credit cards, manage transactions, track reward points, and maintain a credit history, all with robust exception handling.
 
 ---
